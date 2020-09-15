@@ -1,3 +1,6 @@
-dsadsadsa
-dsadsad
-sadsadasd
+Go to SDK root
+C:\Users\%user%\AppData\Local\Android\Sdk\tools\bin
+open a Terminal on this folder, and run the command:
+sdkmanager --licenses
+
+thanks!
