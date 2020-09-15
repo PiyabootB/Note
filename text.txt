@@ -4,3 +4,6 @@ open a Terminal on this folder, and run the command:
 sdkmanager --licenses
 
 thanks!
+
+
+https://github.com/flutter/flutter/issues/51712
